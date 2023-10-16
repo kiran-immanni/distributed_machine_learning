@@ -1,1 +1,1 @@
-# distributed_machone_learning
+# distributed_machine_learning
